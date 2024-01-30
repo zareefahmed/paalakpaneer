@@ -1,0 +1,24 @@
+{
+  "name": "paalakpaneer",
+  "version": "1.0.2",
+  "description": "This package provides up-to-date information on the widely enjoyed Indian dish, Palak Paneer. Utilize the available functions within this package to access the latest details about Palak Paneer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zareefahmed/paalakpaneer.git"
+  },
+  "keywords": [
+    "Paalak",
+    "Paneer",
+    "Dish"
+  ],
+  "author": "Zareef Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zareefahmed/paalakpaneer/issues"
+  },
+  "homepage": "https://github.com/zareefahmed/paalakpaneer#readme"
+}
